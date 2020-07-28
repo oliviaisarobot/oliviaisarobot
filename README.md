@@ -1,8 +1,6 @@
-My name is Olivia and I'm a **web developer**. I come from a static media design background, from which I switched to development in 2016. Frontend is my passion but I mostly work with the full stack. Your databases don't scare me.
+My name is Olivia and I'm a **full stack developer**. I come from a static media design background, from which I switched to web development in 2016. As a designer, I have a soft spot for frontend but I mostly work with the full stack. Your databases don't scare me.
 
-Ever passionate about my work, I continuously look for new challenges. I am analytical, autonomous, always happy to learn, and I prosper in a cooperative environment.
-
-I've spent most of my time on php projects. Don't feel too bad for me, php7+ is pretty cool. I dream of working with Rails/Vue.js again someday. I love to tinker with python in my free time.
+I've spent most of my time on php projects. Don't feel too bad for me, php7+ is pretty cool. I do hope to work with Rails/Vue.js again someday. I love to tinker with python in my free time.
 
 I currently weave php/Yii2 for a living.
 
